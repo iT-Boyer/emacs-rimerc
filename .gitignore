@@ -1,0 +1,7 @@
+*~
+.*~
+*userdb/
+/build/*
+/user.yaml
+/installation.yaml
+.DS_Store
